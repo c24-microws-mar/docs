@@ -22,3 +22,7 @@ To rebuild the complete infrastructure, follow these steps:
 * [Setup Consul](how-to-setup-consul.md)
 * [Setup Registrator](how-to-setup-registrator.md)
 * [Setup a private Docker registry](how-to-setup-a-private-docker-registry.md)
+
+To search the [MusicBrainz](http://musicbrainz.org/) metadata service
+
+* [Search MusicBrainz](how-to-search-musicbrainz.md)
